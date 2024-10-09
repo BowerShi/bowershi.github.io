@@ -1,20 +1,13 @@
 ---
 title: mis
-layout: picture_left
+layout: defaut
 ---
 
-_**Email address**_<br>
-bowenshi at utexas dot edu
+_I'm fascinated with what happens to the creative output when you isolate yourself from the approval and disapproval of the people around you._ — Glenn Gould_<br>
 
-_**Office**_<br>
-POB 3SEo5G
+I’ve always had a deep appreciation for classical music, particularly the later works of the romantic times. My time in the PKU Piano Association was filled with unforgettable moments—working on challenging pieces and connecting with incredible friends. Here are a few snapshots from those times. 
 
-_**Phone**_<br>
-737 303-9699
+| ![CHOPIN](images/IMG_8048.JPG)|![BARHMS](images/IMG_8567.JPG) |
+| :---:|:---: |
+| CHOPIN Polonaise-fantanty, Op. 61 | BRAHMS Piano Trio No.1, Op.8|
 
-_**Mailing address**_<br>
-Oden Institute for Computational Engineering and Sciences
-
-The University of Texas at Austin
-201 E. 24th Street | Mail code: C0200 
-Austin, Texas 78712-1229
