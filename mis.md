@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: mis .
 layout: picture_left
 ---
 
