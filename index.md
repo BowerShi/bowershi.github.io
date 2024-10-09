@@ -16,7 +16,7 @@ layout: default
 </div>
 <div id="clearer" style="clear: both"> </div>
 
-I received my B.S. in Computational Mathematics from [School of Mathematical Sciences](http://english.math.pku.edu.cn), [Peking University](https://www.pku.edu.cn) in July, 2024. At Peking University, I worked with Prof. Jun Hu and Dr. Kaibo Hu on Finite Element Exterior Calculus, where we studid the stability of finite elements from a homological per
+I received my B.S. in Computational Mathematics from [School of Mathematical Sciences](http://english.math.pku.edu.cn), [Peking University](https://www.pku.edu.cn) in July, 2024. At Peking University, I was fortunate to work with [Prof. Jun Hu](https://scholar.google.com/citations?user=LEa7b6YAAAAJ&hl=zh-TW) and [Dr. Kaibo Hu](https://kaibohu.github.io) on Finite Element Exterior Calculus.
 
 
 
