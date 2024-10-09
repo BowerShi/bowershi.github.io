@@ -5,7 +5,7 @@ layout: default
 
 <div id="twosided">
 <div id="left" style="float: left; max-width: 30%;border: 10px"> 
-    <img src="images/IMG_1234.jpg" />
+    <img src="images/profile.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
 <p> <b>Bowen Shi</b> <br> <em>Phd Student</em> </p>
