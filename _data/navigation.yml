@@ -6,21 +6,9 @@ docs:
 
 - title: Research
   url: research.html
-
-- title: Publications
-  url: publications.html
-
-- title: Software
-  url: software.html
     
 - title: Teaching
   url: teaching.html
-  
-- title: Mentoring
-  url: mentoring.html
 
-- title: Join us!
-  url: available_positions.html
-
-- title: Contact
+- title: Miscellany
   url: contact.html
