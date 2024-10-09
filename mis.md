@@ -1,5 +1,5 @@
 ---
-title: mis .
+title: mis
 layout: picture_left
 ---
 
