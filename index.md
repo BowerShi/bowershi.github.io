@@ -3,26 +3,21 @@ title: Home
 layout: default
 ---
 
-> Join our computational imaging and predictive sciences team: **Postdoc position [available](available_positions.html)!**
-
 <div id="twosided">
 <div id="left" style="float: left; max-width: 30%;border: 10px"> 
-    <img src="images/profile.jpg" />
+    <img src="images/IMG_1234.jpg" />
 </div>
 <div id="right" style="float: right; width: 65%; vertical-align: middle;">
-<p> <b>Umberto Villa, PhD</b> <br> <em>Research Associate Professor</em> </p>
+<p> <b>Bowen Shi</b> <br> <em>Phd Student</em> </p>
 <p> <a href="https://oden.utexas.edu" target="blank">Oden Institute for Computational Engineering and Sciences</a><br>
 <a href="https://utexas.edu" target="blank">The University of Texas at Austin</a></p>
-<p> <a href="files/UmbertoVilla_cv.pdf">Curriculum vitae </a> </p>
+<p> <a href="files/Bowen_Shi_CV_3-11.pdf">Curriculum vitae </a> </p>
 </div>
 </div>
 <div id="clearer" style="clear: both"> </div>
 
-I obtained my Ph.D. in Mathematics from [Emory University](http://emory.edu/) in December 2012 with a specialization in Computational Mathematics (high-performance computing, computational fluid dynamics, image processing, inverse problems, and numerical analysis), with [Prof. Alessandro Veneziani](http://mathcs.emory.edu/~ale)([Dept. of Mathematics and Computer Science](http://www.mathcs.emory.edu/)) serving as my principal advisor.
+I received my B.S. in Computational Mathematics from [School of Mathematical Sciences](http://english.math.pku.edu.cn), [Peking University](https://www.pku.edu.cn) in July, 2024. At Peking University, I worked with Prof. Jun Hu and Dr. Kaibo Hu on Finite Element Exterior Calculus, where we studid the stability of finite elements from a homological per
 
-I completed my postdoctoral training at the [Center for Applied Scientific Computing (CASC)](http://computation.llnl.gov/casc/) of [Lawrence Livermore National Laboratory (LLNL)](https://llnl.gov/) (February 2013 - February 2015), working with [Dr. Panayot Vassilevski](http://people.llnl.gov/vassilevski1) on algebraic multigrid and numerical upscaling techniques with applications to flow in porous media. After completing my postdoc, I joined the [Oden Institute for Computational Engineering and Sciences](http://oden.utexas.edu/) of [The University of Texas at Austin](http://utexas.edu/) (March 2015-July 2018) as a Research Associate, working with [Prof. Omar Ghattas](http://users.oden.utexas.edu/~omar) on scalable numerical methods for solving Bayesian inverse problems, uncertainty quantification and propagation, optimal experimental design, and optimization under uncertainty.<br><br>
-
-After spending four years as a Research Assistant Professor of [Electrical and Systems Engineering (ESE)](https://ese.wustl.edu/Pages/default.aspx) at [Washington University in St. Louis](https://wustl.edu) and member of the [PhD in Imaging Science Faculty](https://engineering.wustl.edu/departments-faculty/interdisciplinary-degree-programs/imaging-science/Pages/default.aspx), I rejoined the Oden Institute in the August 2022 working at the interface of imaging science and predictive scientific computing.<br>
 
 
 
