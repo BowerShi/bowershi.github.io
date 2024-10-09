@@ -1,6 +1,6 @@
 ---
 title: mis
-layout: defaut
+layout: default
 ---
 
 _I'm fascinated with what happens to the creative output when you isolate yourself from the approval and disapproval of the people around you._ — Glenn Gould_<br>
